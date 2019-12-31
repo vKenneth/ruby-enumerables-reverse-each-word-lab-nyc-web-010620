@@ -17,3 +17,4 @@ describe '#reverse_each_word' do
   end
 end
 
+famous_movie_actors("Greatest actors").reverse_each_word
